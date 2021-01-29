@@ -1,0 +1,14 @@
+D:\Projects\Visual Studio 2017\source\repos\CSharpConsoleApplication\FreeChatServer\FreeChatServer\bin\Debug\FreeChatServer.exe.config
+D:\Projects\Visual Studio 2017\source\repos\CSharpConsoleApplication\FreeChatServer\FreeChatServer\bin\Debug\FreeChatServer.exe
+D:\Projects\Visual Studio 2017\source\repos\CSharpConsoleApplication\FreeChatServer\FreeChatServer\bin\Debug\FreeChatServer.pdb
+D:\Projects\Visual Studio 2017\source\repos\CSharpConsoleApplication\FreeChatServer\FreeChatServer\obj\Debug\FreeChatServer.csprojAssemblyReference.cache
+D:\Projects\Visual Studio 2017\source\repos\CSharpConsoleApplication\FreeChatServer\FreeChatServer\obj\Debug\FreeChatServer.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio 2017\source\repos\CSharpConsoleApplication\FreeChatServer\FreeChatServer\obj\Debug\FreeChatServer.exe
+D:\Projects\Visual Studio 2017\source\repos\CSharpConsoleApplication\FreeChatServer\FreeChatServer\obj\Debug\FreeChatServer.pdb
+D:\Projects\Visual Studio 2017\source\repos\CSharpConsoleApp\FreeChatServer\FreeChatServer\bin\Debug\FreeChatServer.exe.config
+D:\Projects\Visual Studio 2017\source\repos\CSharpConsoleApp\FreeChatServer\FreeChatServer\bin\Debug\FreeChatServer.exe
+D:\Projects\Visual Studio 2017\source\repos\CSharpConsoleApp\FreeChatServer\FreeChatServer\bin\Debug\FreeChatServer.pdb
+D:\Projects\Visual Studio 2017\source\repos\CSharpConsoleApp\FreeChatServer\FreeChatServer\obj\Debug\FreeChatServer.csprojAssemblyReference.cache
+D:\Projects\Visual Studio 2017\source\repos\CSharpConsoleApp\FreeChatServer\FreeChatServer\obj\Debug\FreeChatServer.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio 2017\source\repos\CSharpConsoleApp\FreeChatServer\FreeChatServer\obj\Debug\FreeChatServer.exe
+D:\Projects\Visual Studio 2017\source\repos\CSharpConsoleApp\FreeChatServer\FreeChatServer\obj\Debug\FreeChatServer.pdb

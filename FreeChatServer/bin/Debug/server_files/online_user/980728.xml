@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--为每个在线用户创建该文件-->
+<!--当用户成功登录服务器后应当读取数据数据库数据并生成该文件-->
+<content>
+  <meta name="online_user"/>
+  <user>
+    <item name="username">980728</item>
+    <item name="nickname">历史的天空</item>
+    <item name="header">980728.jpg</item>
+    <item name="host">192.168.43.244</item>
+    <item name="port">8889</item>
+  </user>
+  <contacts>
+    <item name="980510"/>
+    <item name="991104"/>
+    <item name="981214"/>
+  </contacts>
+</content>
