@@ -1,1 +1,2 @@
-# FreeChatServer
+# FreeChat是一个基于C/S模式，使用自定义协议的即时通讯项目  
+# 这是该项目的服务器程序  
